@@ -137,9 +137,9 @@ streamlit run Churn_app.py
 
 ## 👨‍💻 Author
 
-**Prateek Verma**
+**Priyanka Yadav**
 
-GitHub: https://github.com/prateek2k5
+GitHub: https://github.com/priyanka4665
 ---
 
 ⭐ If you found this project helpful, consider giving it a star!
